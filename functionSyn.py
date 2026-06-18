@@ -37,4 +37,5 @@
 s ="He"
 print(s.center(10,"#"))
 
-## lets begin with a function
+## lets begin with a function e
+## hi 
